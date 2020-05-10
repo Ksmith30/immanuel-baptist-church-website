@@ -2,7 +2,6 @@ import React from "react"
 
 import Image from "./image"
 import NavLink from "./nav-link"
-import HamburgerMenu from "./floating-action-button"
 import styled from "styled-components"
 
 const Navigation = styled.nav`
@@ -30,8 +29,6 @@ const Header = () => (
       <NavLink path="/">
         <Image />
       </NavLink>
-
-      <HamburgerMenu />
 
       <NavigationButtons>
         <NavLink path="/about">
