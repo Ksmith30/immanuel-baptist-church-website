@@ -11,7 +11,7 @@ const Footer = () => (
       width: `100%`,
       bottom: 0,
       left: 0,
-      height: `150px`
+      height: `150px`,
     }}
   >
       <Image />

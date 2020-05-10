@@ -2,16 +2,22 @@ import React from "react"
 
 import Image from "./image"
 import NavLink from "./nav-link"
-import HamburgerMenu from "./hamburger-menu"
+import HamburgerMenu from "./floating-action-button"
 import styled from "styled-components"
 
 const Navigation = styled.nav`
   padding: 1.45rem 1.0875rem;
-`;
+`
 
 const NavigationButtons = styled.div`
+  display: none;
   float: right;
-`;
+
+  @media only screen and (min-width: 1025px) {
+    float: right;
+    display: block;
+  }
+`
 
 const Header = () => (
   <header
@@ -24,6 +30,8 @@ const Header = () => (
       <NavLink path="/">
         <Image />
       </NavLink>
+
+      <HamburgerMenu />
 
       <NavigationButtons>
         <NavLink path="/about">
@@ -41,7 +49,6 @@ const Header = () => (
         <NavLink path="/give">
           <h3>Give</h3>
         </NavLink>
-
       </NavigationButtons>
     </Navigation>
   </header>
