@@ -1,20 +1,20 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-export default function ByLawsTemplate({
-  data,
-}) {
+import Layout from "../components/layout"
+import SEO from "../components/seo"
+
+export default function ByLawsTemplate({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   return (
-    <div className="blog-post-container">
-      <div className="blog-post">
-        <div
-          className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: html }}
-        />
-      </div>
-    </div>
+    <Layout>
+      <SEO title="Immanuel Baptist Church - Springdale, AR" />
+      <div
+        className="blog-post-content"
+        dangerouslySetInnerHTML={{ __html: html }}
+      />
+    </Layout>
   )
 }
 
