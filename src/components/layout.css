@@ -9,6 +9,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+html, body, #___gatsby, #gatsby-focus-wrapper {
+  min-height: 100vh
+}
+
 article,
 aside,
 details,

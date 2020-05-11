@@ -12,6 +12,10 @@
     text-decoration: none;
 }
 
+#sideNavigation span {
+    width: 100%
+}
+
 #sideNavigation h3 {
     padding-left: 15%;
     color: white; 

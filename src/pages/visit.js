@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
-const IndexPage = () => (
+const VisitPage = () => (
   <Layout>
     <SEO title="Immanuel Baptist Church - Springdale, AR" />
     <h1>Visit Us</h1>
@@ -16,4 +16,4 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
+export default VisitPage
