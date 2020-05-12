@@ -26,7 +26,7 @@ We believe in the one and only true God, Who is spirit, sovereign, personal, inf
 
 We believe man was created in the image of God and He created them male and female. In the beginning man was innocent of sin and was endowed by His Creator with freedom of choice. By his free choice man sinned against God and brought sin into the human race. As a result, all human beings are born with a sinful nature. Man is incapable of regaining a right relationship with God through his own efforts. It is only the grace of God that can restore man into His holy fellowship and enable man to fulfill the creative purpose of God. 
 
-*Genesis 1:27; Psalm 8:3-6; Isaiah 53:6a, Isaiah 59:1-2; Jeremiah17:9; Romans 3:23, Romans 5:8,12-25; Ephesians 2:1-3*
+*Genesis 1:27; Psalm 8:3-6; Isaiah 53:6a, Isaiah 59:1-2; Jeremiah 17:9; Romans 3:23, Romans 5:8,12-25; Ephesians 2:1-3*
 
 ### About Jesus Christ
 

@@ -3,17 +3,15 @@ import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import "./byLawsTemplate.css"
 
 export default function ByLawsTemplate({ data }) {
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   return (
     <Layout>
-      <SEO title="Immanuel Baptist Church - Springdale, AR" />
-      <div
-        className="blog-post-content"
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
+      <SEO title="Church By Laws" />
+      <div id="byLawsTemplate" dangerouslySetInnerHTML={{ __html: html }} />
     </Layout>
   )
 }

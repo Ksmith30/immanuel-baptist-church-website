@@ -8,12 +8,11 @@ The by-laws (‘BY-LAWS’) are made and entered into as of month day 2017 under
 
 We, the undersigned, in order to form a corporation for the purposes herein/after stated under and pursuant to the provisions of Arkansas Law and with unbounded faith in God for leadership, protection, and blessing, with unquestioned acceptance of the Holy Bible as our all-sufficient rule of faith and practice, desiring to continue the place and form of worship that we have maintained since organizing in 1952, and desiring now to be legally constituted a church under the laws of the State of Arkansas, we do hereby certify as follows:
 
-## Article I
-## Name and Location
+## ARTICLE I <br/> NAME AND LOCATION
 
 ### 1.01 - Name
 
-The name of this corporation is Immanuel Baptist Church of Springdale, Arkansas. This corporation will be further referred to in these By-Laws as the “Church” and also may be referred to in the By-Laws by and may do business as “Immanuel Baptist,” and such other names as the membership of the Church, as defined in ARTICLE IV [Church Meetings] and ARTICLE XIII [Church Leadership] shall determine from time to time.
+The name of this corporation is Immanuel Baptist Church of Springdale, Arkansas. This corporation will be further referred to in these By-Laws as the “Church” and also may be referred to in the By-Laws by and may do business as “Immanuel Baptist,” and such other names as the membership of the Church, as defined in [ARTICLE IV](/about/by-laws/#article-iv-br-church-meetings) [Church Meetings] and [ARTICLE XIII](/about/by-laws/#article-viii-br-general-spending-authorization) [Church Leadership] shall determine from time to time.
 
 ### 1.02 - Principle Office
 
@@ -27,8 +26,7 @@ The membership of the Church shall have the power and authority to establish oth
 
 The Church is a non-profit church formed under the laws of the state of Arkansas, furthermore, this Church operates under the religious exemption without any further need for any governmental determination including, but not limited to, a 501(c)(3) determination.
 
-## Article II 
-## RECORDS AND REPORTS
+## ARTICLE II <br/> RECORDS AND REPORTS
 
 ### 2.01 - Records
 
@@ -38,8 +36,7 @@ The Church shall keep correct and complete books and records of account. All rec
 
 All such records shall be kept at the Church’s principal office.
 
-## Article III 
-## PURPOSES AND LIMITATIONS
+## ARTICLE III <br/> PURPOSES AND LIMITATIONS
 
 ### 3.01 - Purposes
 
@@ -61,9 +58,7 @@ The Church is organized and shall be operated exclusively for religious, charita
 
 (h) To license and ordain and to employ licensed and ordained ministers of the Gospel and others.
 
-(i) To conduct and carry on divine services at the places of worship of the Church, and elsewhere, and to collect and disburse any and all necessary funds for the
-
-maintenance of the Church and to accomplishment of its purpose within the State of Arkansas and elsewhere.
+(i) To conduct and carry on divine services at the places of worship of the Church, and elsewhere, and to collect and disburse any and all necessary funds for the maintenance of the Church and to accomplishment of its purpose within the State of Arkansas and elsewhere.
 
 (j) To take and hold any grant, donation, gift, bequest, or devise of any real or personal property.
 
@@ -77,22 +72,19 @@ maintenance of the Church and to accomplishment of its purpose within the State 
 
 (o) To promote, encourage, and foster any other similar religious, charitable and educational activities; to accept, hold, invest, reinvest and administer any gifts, legacies, bequests, devises, funds and property of any sort or nature, and to use, expend, or donate the income or principal thereof for, and to devote the same to, the foregoing purposes of the Church; to do any and all lawful acts and things which may be necessary, useful, suitable, or proper for furtherance of accomplishment of the purposes of this Church. Provided, however, no act may be performed which would violate Section 501(c)(3) of the Internal Revenue Code of 1986, as it now exists or as it may hereafter be amended.
 
-### Article 3.02 - Limitations
+### ARTICLE 3.02 - Limitations
 
 In order to carry out the above-stated purposes, the Church shall have all those powers set forth in the Act, as it now exists or as it may hereafter be amended. The powers of the Church to promote the purposes set out above are limited and restricted in the following manner:
 
-(a) No part of the net earnings of the Church shall inure to the benefit of or be distributable to its incorporates, officers or other private persons, except that the Church shall be authorized and empowered to make payments and distributions (including reasonable compensation for services rendered to or for the Church) in furtherance of
-
-its purposes as set forth in these By-Laws. No part of the activities of the Church, in excess of those legally allowable, shall be the carrying on of propaganda or otherwise attempting to influence legislation, and the Church shall not participate in or intervene in (including the publication or distribution of statements) any political campaign on behalf of any candidate for public office. Notwithstanding any other provisions of these Articles, the Church shall not carry on any other activities not permitted to be carried on by (i) a Church exempt from Federal Income Tax under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws, or (ii) a Church, contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws.
+(a) No part of the net earnings of the Church shall inure to the benefit of or be distributable to its incorporates, officers or other private persons, except that the Church shall be authorized and empowered to make payments and distributions (including reasonable compensation for services rendered to or for the Church) in furtherance of its purposes as set forth in these By-Laws. No part of the activities of the Church, in excess of those legally allowable, shall be the carrying on of propaganda or otherwise attempting to influence legislation, and the Church shall not participate in or intervene in (including the publication or distribution of statements) any political campaign on behalf of any candidate for public office. Notwithstanding any other provisions of these ARTICLEs, the Church shall not carry on any other activities not permitted to be carried on by (i) a Church exempt from Federal Income Tax under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws, or (ii) a Church, contributions to which are deductible under Section 170(c)(2) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws.
 
 (b) In the event this Church is in any one year a “private foundation” as defined by Section 509(a) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws, it shall be required to distribute its income for such taxable year at such time and in such manner as not to subject the foundation to taxation under Section 4942 of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws; and further shall be prohibited from: (i) any act of “self dealing” as defined in Section 4941(d) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws; (ii) retaining any “excess business holdings” as defined in Section 4943(c) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws; (iii) making any investments in such manner as to subject the foundation to taxation under Section 4944 of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws; (iv) making a taxable expenditures as defined in Section 4945(d) of the Internal Revenue Code of 1986, as amended, or corresponding provisions of any subsequent federal tax laws.
 
 (c) The Church shall not accept any gift or grant if the gift or grant contains major conditions, which would restrict or violate any of the Church’s religious, charitable or educational purposes or if the gift or grant would require serving a private as opposed to a public interest.
 
-(D) Upon the dissolution of the Church, the Church shall, after paying or making provision for payment of all the liabilities of the Church, distribute all the assets of the Church evenly among any federal or state non-profit entities as the Trustees shall determine. In the event that this church should cease to function as a local church, the trustees may give the property to another church, an association of churches or a Christian missionary organization. In the alternative, the property may be sold and the net proceeds given to such church, association of churches, or Christian missionary organization. In no circumstances may the property or net proceeds from the sale of the property accrue to any individual, individuals or commercial enterprises.
+(d) Upon the dissolution of the Church, the Church shall, after paying or making provision for payment of all the liabilities of the Church, distribute all the assets of the Church evenly among any federal or state non-profit entities as the Trustees shall determine. In the event that this church should cease to function as a local church, the trustees may give the property to another church, an association of churches or a Christian missionary organization. In the alternative, the property may be sold and the net proceeds given to such church, association of churches, or Christian missionary organization. In no circumstances may the property or net proceeds from the sale of the property accrue to any individual, individuals or commercial enterprises.
 
-## Article IV
-## Church Meetings
+## ARTICLE IV <br/> CHURCH MEETINGS
 
 ### 4.01 - Worship, Education, and Evangelism Meetings
 
@@ -126,8 +118,7 @@ The treasurer shall present a monthly financial report at each quarterly busines
 
 All questions and procedure not provided for in these By-Laws shall be determined according to Robert’s Rules of Order (newly revised).
 
-## Article V
-## SELECTING OFFICERS AND TEACHERS
+## ARTICLE V <br/> SELECTING OFFICERS AND TEACHERS
 
 ### 5.01 - Nominating Committee
 
@@ -137,30 +128,27 @@ A nominating committee of up to three members shall be elected at the June busin
 
 The church shall receive the nominees made by the nominating committee and shall elect all officers and teachers except the pastor at the annual business meeting.
 
-## Article VI
-## BANK ACCOUNTS AND SPENDING LIMITATIONS
+## ARTICLE VI <br/> BANK ACCOUNTS AND SPENDING LIMITATIONS
 
 ### 6.01 - Bank Accounts
 
-The Church, through its Deacons and Treasurer, is authorized to set up any financial accounts, such as, but not limited to , checking, savings, brokerage, certificate of deposit, or any other financial account deemed necessary by the membership. The treasurer, assistant treasurer or an active Deacon shall sign all checks, drafts, or other orders for the payment of money.
+The Church, through its Deacons and Treasurer, is authorized to set up any financial accounts, such as, but not limited to, checking, savings, brokerage, certificate of deposit, or any other financial account deemed necessary by the membership. The treasurer, assistant treasurer or an active Deacon shall sign all checks, drafts, or other orders for the payment of money.
 
 ### 6.02 - Check Signers
 
-The Church, through its Deacons and Treasurer, is authorized to set up any financial accounts, such as, but not limited to , checking, savings, brokerage, certificate of deposit, or any other financial account deemed necessary by the membership. The treasurer, assistant treasurer or an active Deacon shall sign all checks, drafts, or other orders for the payment of money.
+The Church, through its Deacons and Treasurer, is authorized to set up any financial accounts, such as, but not limited to, checking, savings, brokerage, certificate of deposit, or any other financial account deemed necessary by the membership. The treasurer, assistant treasurer or an active Deacon shall sign all checks, drafts, or other orders for the payment of money.
 
 ### 6.03 - Limitations of Check Signers
 
 When the Church has any non-budgeted expenditures requiring an amount over $2,500.00 to be spent, the Church shall mandate that the membership approves such expenditure, and membership shall appoint two (2) individuals who must jointly sign any check in excess of the stated amount.
 
-## Article VII
-## INSURANCE AUTHORIZATION
+## ARTICLE VII <br/> INSURANCE AUTHORIZATION
 
 ### 7.01 - Insurance
 
 The Church may purchase and maintain insurance, at its expense, to protect itself and any Trustee, officer, employee or agent of the Church or who, while a Trustee, officer, employee or agent of the Church, is or was a Trustee, officer, partner, employee or agent of another church, partnership, joint venture, trust, employee benefit plan or other enterprise against any expense, liability or loss, whether or not the Church would have to power to indemnify such person against such expense, liability or loss.
 
-## Article VIII
-## GENERAL SPENDING AUTHORIZATION
+## ARTICLE VIII <br/> GENERAL SPENDING AUTHORIZATION
 
 ### 8.01 - Budget
 
@@ -170,15 +158,13 @@ The Church shall have approved annually its budget by a vote of its Members. Thi
 
 Once the Members have approved the budget for the Church, a normal budgetary item can be approved by any one (1) authorized signer of the account. Any abnormal expenditures of $2,500.00 or greater requires notice and approval by the membership, as well as two (2) authorized signer’s signatures.
 
-## Article IX
-## CHURCH FACILITIES
+## ARTICLE IX <br/> CHURCH FACILITIES
 
 ### 9.01 - Facility Use
 
 The Church buildings and any other facilities under the ownership, control or maintenance of the Church shall be used for purposes of the Church or purposes in line with the Church’s statement of faith. Under no circumstances shall the Church facilities or other facilities under the ownership, control or maintenance of the Church be used for purposes that undermine, or are contrary to, the principles set forth in the Church’s Statement of Faith, and any documents incorporated therein.
 
-## Article X
-## STATEMENT OF FAITH AND DOCTRINE
+## ARTICLE X <br/> STATEMENT OF FAITH AND DOCTRINE
 
 ### 10.01 - Statement of Biblical Authority
 
@@ -190,39 +176,55 @@ Members have the responsibility and opportunity to engage the Membership and Chu
 
 ### 10.02 - Statement of Beliefs
 
-We affirm the Holy Bible as the inspired Word of God and the basis of our beliefs. We hold to the historic doctrines of the Baptist faith, including the Baptist Faith and Message 2000, which is hereby incorporated by reference, which are briefly summarized and as follows, and the additional beliefs stated within:
+We affirm the Holy Bible as the inspired Word of God and the basis of our beliefs. We hold to the historic doctrines of the Baptist faith, including the [Baptist Faith and Message 2000](http://www.sbc.net/bfm2000/bfm2000.asp), which is hereby incorporated by reference, which are briefly summarized and as follows, and the additional beliefs stated within:
 
 #### 10.02.01 - About God and the Trinity
 
-We believe in the one and only true God, Who is spirit, sovereign, personal, infinite and eternal. His is one being of three distinct persons: The Father, The Son, and The Holy Spirit. We believe that He concerns Himself mercifully in the affairs of men, that He hears and answers prayers, and that He saves from sin and death all who come to Him through Jesus Christ. We believe God is the Creator and Ruler of the world. Genesis 1:1,26,27; Genesis 3:22; Psalm 90:2; Isaiah 45: 5-6, Isaiah 46: 9-10; Matthew 28:19; John 17:3; II Corinthians 13:14; I Peter 1:2
+We believe in the one and only true God, Who is spirit, sovereign, personal, infinite and eternal. His is one being of three distinct persons: The Father, The Son, and The Holy Spirit. We believe that He concerns Himself mercifully in the affairs of men, that He hears and answers prayers, and that He saves from sin and death all who come to Him through Jesus Christ. We believe God is the Creator and Ruler of the world. 
+
+*Genesis 1:1,26,27; Genesis 3:22; Psalm 90:2; Isaiah 45: 5-6, Isaiah 46: 9-10; Matthew 28:19; John 17:3; II Corinthians 13:14; I Peter 1:2*
 
 #### 10.02.02 - About Man
 
-We believe man was created in the image of God and He created them male and female. In the beginning man was innocent of sin and was endowed by His Creator with freedom of choice. By his free choice man sinned against God and brought sin into the human race. As a result, all human beings are born with a sinful nature. Man is incapable of regaining a right relationship with God through his own efforts. It is only the grace of God that can restore man into His holy fellowship and enable man to fulfill the creative purpose of God. Genesis 1:27; Psalm 8:3-6; Isaiah 53:6a, Isaiah 59:1-2; Jeremiah17:9; Romans 3:23, Romans 5:8,12-25; Ephesians 2:1-3
+We believe man was created in the image of God and He created them male and female. In the beginning man was innocent of sin and was endowed by His Creator with freedom of choice. By his free choice man sinned against God and brought sin into the human race. As a result, all human beings are born with a sinful nature. Man is incapable of regaining a right relationship with God through his own efforts. It is only the grace of God that can restore man into His holy fellowship and enable man to fulfill the creative purpose of God. 
+
+*Genesis 1:27; Psalm 8:3-6; Isaiah 53:6a, Isaiah 59:1-2; Jeremiah17:9; Romans 3:23, Romans 5:8,12-25; Ephesians 2:1-3*
 
 #### 10.02.03 - About Jesus Christ
 
-We believe in Jesus Christ, God’s only begotten Son, conceived by the Holy Spirit. We believe in His virgin birth, sinless life, miracles, and teachings. We believe in His substitutionary atoning death, bodily resurrection, ascension into Heaven, perpetual intercession for His people, and personal visible return to earth. We believe Jesus Christ is co-equal with the Father and is both fully God and human. It is only through faith in the person and work of Jesus Christ and repentance from sin can one be restored to God and experience true life and joy. He did all this in order to display His love for mankind and to restore them back into a right relationship with Himself. Matthew 1:22-23; Luke 2:52; Colossians 1:15-20; Hebrews 1:1-3; Isaiah 9:6; John 1:1-15, John 14:10-30; Hebrews 4:14-15; I Corinthians 1:15-20; Romans 1:3-4; Acts 1:9-11; I Timothy 6:14-15; Titus 2:13; John 1:29; John 10:1-18; Romans 5:8; 2 Corinthians 5:21; Galatians 1:4; 1 Peter 3:18; Matthew 28:1-20; Mark 16:1-8; Luke 24:1-53; 1 Corinthians 15:12-34; John 14:3; Acts 1:11; 1 Thessalonians 4:16; Hebrews 9:28; 1 John 3:2; Revelation 1:7; John 3:16,18; Acts 4:12; Romans 3:21-26: I Timothy 2:5-6
+We believe in Jesus Christ, God’s only begotten Son, conceived by the Holy Spirit. We believe in His virgin birth, sinless life, miracles, and teachings. We believe in His substitutionary atoning death, bodily resurrection, ascension into Heaven, perpetual intercession for His people, and personal visible return to earth. We believe Jesus Christ is co-equal with the Father and is both fully God and human. It is only through faith in the person and work of Jesus Christ and repentance from sin can one be restored to God and experience true life and joy. He did all this in order to display His love for mankind and to restore them back into a right relationship with Himself. 
+
+*Matthew 1:22-23; Luke 2:52; Colossians 1:15-20; Hebrews 1:1-3; Isaiah 9:6; John 1:1-15, John 14:10-30; Hebrews 4:14-15; I Corinthians 1:15-20; Romans 1:3-4; Acts 1:9-11; I Timothy 6:14-15; Titus 2:13; John 1:29; John 10:1-18; Romans 5:8; 2 Corinthians 5:21; Galatians 1:4; 1 Peter 3:18; Matthew 28:1-20; Mark 16:1-8; Luke 24:1-53; 1 Corinthians 15:12-34; John 14:3; Acts 1:11; 1 Thessalonians 4:16; Hebrews 9:28; 1 John 3:2; Revelation 1:7; John 3:16,18; Acts 4:12; Romans 3:21-26: I Timothy 2:5-6*
 
 #### 10.02.04 - About the Holy Spirit
 
-We believe the Holy Spirit regenerates those who believe and indwells, baptizes, seals, empowers, guides, teaches and sanctifies all who become children of God through Jesus Christ. We believe in the ministry of all the gifts of the Spirit to be functional and an active part of the Church. We believe the Holy Spirit is co-equal with the Father and the Son of God. Through the proclamation of the Gospel, the Holy Spirit reveals to men their need to repent of their sins and confess Jesus as Lord and Savior. He lives in every Christian from the moment of salvation. He provides the Christian with power for living, understanding of spiritual truth, and guidance in doing what is right. He gives every believer a spiritual gift when they are saved. As Christians, we seek to live under His control daily. John 14:16-17; John 16:7-13; Acts 1:8; 1 Corinthians 2:12, 1 Corinthians 3:16; 2 Corinthians 3:17; Galatians 5:25; Ephesians 1:13, 5:18.
+We believe the Holy Spirit regenerates those who believe and indwells, baptizes, seals, empowers, guides, teaches and sanctifies all who become children of God through Jesus Christ. We believe in the ministry of all the gifts of the Spirit to be functional and an active part of the Church. We believe the Holy Spirit is co-equal with the Father and the Son of God. Through the proclamation of the Gospel, the Holy Spirit reveals to men their need to repent of their sins and confess Jesus as Lord and Savior. He lives in every Christian from the moment of salvation. He provides the Christian with power for living, understanding of spiritual truth, and guidance in doing what is right. He gives every believer a spiritual gift when they are saved. As Christians, we seek to live under His control daily. 
+
+*John 14:16-17; John 16:7-13; Acts 1:8; 1 Corinthians 2:12, 1 Corinthians 3:16; 2 Corinthians 3:17; Galatians 5:25; Ephesians 1:13, 5:18*
 
 #### 10.02.05 - About the devil
 
-We believe in the existence of Satan who was originally created a holy and perfect being, but through pride and unlawful ambition rebelled against God. He is now the prince of the world and leader of all the other fallen angels and evil spirits. He tempted man in the Garden of Eden and Jesus Christ in the wilderness; accuses the saints, is the father of lies and false religions; that he will be destroyed once and for all at the end of the millennial reign and cast into the fires of hell, which have been reserved for him and his angels. Isaiah 14:12-15; Ezekiel 28:14-17; Revelation 12:9; Jude 6; 2 Peter 2:4; Ephesians 2:2; John 14:30; 1 Thessalonians 3:5; Matthew 4:13; 1 Peter 5:8; 1 John 3:8; Matthew 13:25, 37-39; Luke 22:3-4; Revelation 12:10; 2 Corinthians 11:13-15; Mark 13:21-22; I John 4:3; 1 John 2:22; 2 John 7; Revelation 12:7-9; Revelation 20:1-3, 10; Matthew 25:41; 2 Peter 2:4; Jude 1:6.
+We believe in the existence of Satan who was originally created a holy and perfect being, but through pride and unlawful ambition rebelled against God. He is now the prince of the world and leader of all the other fallen angels and evil spirits. He tempted man in the Garden of Eden and Jesus Christ in the wilderness; accuses the saints, is the father of lies and false religions; that he will be destroyed once and for all at the end of the millennial reign and cast into the fires of hell, which have been reserved for him and his angels. 
+
+*Isaiah 14:12-15; Ezekiel 28:14-17; Revelation 12:9; Jude 6; 2 Peter 2:4; Ephesians 2:2; John 14:30; 1 Thessalonians 3:5; Matthew 4:13; 1 Peter 5:8; 1 John 3:8; Matthew 13:25, 37-39; Luke 22:3-4; Revelation 12:10; 2 Corinthians 11:13-15; Mark 13:21-22; I John 4:3; 1 John 2:22; 2 John 7; Revelation 12:7-9; Revelation 20:1-3, 10; Matthew 25:41; 2 Peter 2:4; Jude 1:6*
 
 #### 10.02.06 - About Salvation and Regeneration
 
-We believe that all men are sinners by nature and by choice and are therefore, under condemnation. We believe that the Holy Spirit regenerates those who repent of their sins and trust in Jesus Christ as Savior. We believe salvation is a free gift from God. We believe that the blood Jesus Christ shed on the Cross provides the sole basis for the forgiveness of sin. God offers salvation to those who put their faith in the death, burial, and resurrection of Jesus Chris as sufficient for the payment for their sin. There is no salvation apart from a personal faith in Jesus Christ as Lord and Savior and for the forgiveness of sin. Eternal life begins the moment someone receives Jesus Christ into his or her life by faith. It is only through faith in the person and work of Jesus Christ and repentance from sin that one can be restored to God and experience true life and joy. John 1:12, John 14:6; Romans 5:1, Romans 6:23; Ephesians 2:8-9; Titus 3:5.
+We believe that all men are sinners by nature and by choice and are therefore, under condemnation. We believe that the Holy Spirit regenerates those who repent of their sins and trust in Jesus Christ as Savior. We believe salvation is a free gift from God. We believe that the blood Jesus Christ shed on the Cross provides the sole basis for the forgiveness of sin. God offers salvation to those who put their faith in the death, burial, and resurrection of Jesus Chris as sufficient for the payment for their sin. There is no salvation apart from a personal faith in Jesus Christ as Lord and Savior and for the forgiveness of sin. Eternal life begins the moment someone receives Jesus Christ into his or her life by faith. It is only through faith in the person and work of Jesus Christ and repentance from sin that one can be restored to God and experience true life and joy. 
+
+*John 1:12, John 14:6; Romans 5:1, Romans 6:23; Ephesians 2:8-9; Titus 3:5*
 
 #### 10.02.07 - About Eternal Security
 
-We believe God gives the believer eternal life through Jesus Christ, therefore the believer in Jesus is secure in that salvation for eternity. Salvation is maintained by the grace, mercy, and power of God; not by the self-effort of the believer. It is the grace and power of God that gives this security. John 10:29; 2 Timothy 1:12; Hebrews 7:25; Hebrews 10:10, 14; 1 Peter 1:3-5.
+We believe God gives the believer eternal life through Jesus Christ, therefore the believer in Jesus is secure in that salvation for eternity. Salvation is maintained by the grace, mercy, and power of God; not by the self-effort of the believer. It is the grace and power of God that gives this security. 
+
+*John 10:29; 2 Timothy 1:12; Hebrews 7:25; Hebrews 10:10, 14; 1 Peter 1:3-5*
 
 #### 10.02.08 - About the Church
 
-We believe in the universal church, a living spiritual body of which Jesus Christ is the head and all regenerated persons are members. We believe in the local church, consisting of a company of believers in Jesus Christ, baptized on a credible profession of faith and associated for worship, work and fellowship. We believe that God has laid upon the members of the local church the primary task of giving the Gospel of Jesus Christ to a lost world. All members of the Church are to be a vital and committed part of the local church. The Church acknowledges Jesus Christ as her only Head and governs herself by democratic principles under the oversight of her membership. Her two ordinances are Baptism by immersion and the Lord’s Supper. Acts 16:5; 1 Corinthians 4:17; Ephesians 5:23; Colossians 1:18
+We believe in the universal church, a living spiritual body of which Jesus Christ is the head and all regenerated persons are members. We believe in the local church, consisting of a company of believers in Jesus Christ, baptized on a credible profession of faith and associated for worship, work and fellowship. We believe that God has laid upon the members of the local church the primary task of giving the Gospel of Jesus Christ to a lost world. All members of the Church are to be a vital and committed part of the local church. The Church acknowledges Jesus Christ as her only Head and governs herself by democratic principles under the oversight of her membership. Her two ordinances are Baptism by immersion and the Lord’s Supper. 
+
+*Acts 16:5; 1 Corinthians 4:17; Ephesians 5:23; Colossians 1:18*
 
 #### 10.02.09 - Christian Conduct
 
@@ -230,45 +232,51 @@ We believe that a Christian should live for the glory of God and the wellbeing o
 
 #### 10.02.10 - Ordinances
 
-We believe that our Lord Jesus Christ has committed to ordinances to the local church: baptism and the Lord’s Supper. We believe that Christian baptism is the immersion of a believer in water into the name of the Father, Son and Holy Spirit. We believe that Christ instituted the Lord’s Supper for commemoration of His death. We believe that these two ordinances should be observed and practiced by all true Believers, until the return of the Lord Jesus Christ. Matthew 3:16; Matthew 28:19-20; Mark 1:9; Acts 2:41; Acts 8:12-13; Acts 8: 38-39; Romans 6:4; 1 Corinthians 11:23-32; 1 Corinthians 15:3-4; 2 Corinthians 5:17; Colossians 2:12; Matthew 26:26-30; Mark 14:22-26; Luke 22:14-20.
+We believe that our Lord Jesus Christ has committed to ordinances to the local church: baptism and the Lord’s Supper. We believe that Christian baptism is the immersion of a believer in water into the name of the Father, Son and Holy Spirit. We believe that Christ instituted the Lord’s Supper for commemoration of His death. We believe that these two ordinances should be observed and practiced by all true Believers, until the return of the Lord Jesus Christ. 
+
+*Matthew 3:16; Matthew 28:19-20; Mark 1:9; Acts 2:41; Acts 8:12-13; Acts 8: 38-39; Romans 6:4; 1 Corinthians 11:23-32; 1 Corinthians 15:3-4; 2 Corinthians 5:17; Colossians 2:12; Matthew 26:26-30; Mark 14:22-26; Luke 22:14-20*
 
 #### 10.02.11 - About the Bible
 
-We believe the Bible is God’s Word to us. The Bible was written under the supernatural guidance of the Holy Spirit by human authors. It is the supreme source of truth for Christian beliefs and living. The Scriptures are true, authoritative and sufficient. Psalm 12:12:6; Psalm 19:7-11; Psalm 119:105; Psalm 138:2; Proverbs 30:5; 2 Timothy 1:13; 1 Timothy 3:16; 2 Peter 1:20-21
+We believe the Bible is God’s Word to us. The Bible was written under the supernatural guidance of the Holy Spirit by human authors. It is the supreme source of truth for Christian beliefs and living. The Scriptures are true, authoritative and sufficient. 
+
+*Psalm 12:6; Psalm 19:7-11; Psalm 119:105; Psalm 138:2; Proverbs 30:5; 2 Timothy 1:13; 1 Timothy 3:16; 2 Peter 1:20-21*
 
 #### 10.02.12 - About Religous Liberty and Civil Government
 
 We believe that every human being has direct relations with God, and is responsible to God alone in matters of faith; that the church must be free from interference by any ecclesiastical or political authority; that, therefore, Church and State must be kept separate as having different functions, each fulfilling its duties free from dictation or patronage of the other. We believe that civil government is of divine appointment, for the interests and good order of human society; that magistrates are to be prayed for, conscientiously honored and obeyed; except only in things opposed to the will of our Lord Jesus Christ; who is the Lord of the conscience, and the coming Prince of the Kings of the earth.
 
-Daniel 3:17-18; Matthew 10:28; Matthew 23:10; Revelation 10:6; Philippians 2:10-11; Psalm 72:11.
+*Daniel 3:17-18; Matthew 10:28; Matthew 23:10; Revelation 10:6; Philippians 2:10-11; Psalm 72:11*
 
 #### 10.02.13 - About the Return of Christ
 
 We believe in the second coming of Christ, that His return from Heaven will be personal, visible and glorious, a blessed hope for which we should constantly watch and pray. 
 
-Matthew 28:6-7; Luke 24:39; John 20:27; 1 Corinthians 15:4; Mark 16:6; Luke 24:2, 4-6; Acts 1:9; Luke 24:51; Mark 16:19; Revelation 3:21; Hebrews 8:1, 6; 1 John 2:1; Hebrews 2:17; Hebrews 5:9-10; John 14:3; Acts 1:11; 1 Thessalonians 4:16; Matthew 24:27, 42; Matthew 25:13; James 5:8; Hebrews 9:28; 1 Thessalonians 4:16-17; 1 Corinthians 15:42-44, 51-53; Philippians 3:20-21; Luke 1:32; Isaiah 9:6-7; 1 Corinthians 15:25; Isaiah 11:405; Isaiah 32:1; Psalm 72:8; Revelation 20:1-4, 6; Zechariah 14; Luke 1:32-33; Revelation 3:21; Revelation 19:11-16; Revelation 21:1-6; 2 Peter 3:8-10
+*Matthew 28:6-7; Luke 24:39; John 20:27; 1 Corinthians 15:4; Mark 16:6; Luke 24:2, 4-6; Acts 1:9; Luke 24:51; Mark 16:19; Revelation 3:21; Hebrews 8:1, 6; 1 John 2:1; Hebrews 2:17; Hebrews 5:9-10; John 14:3; Acts 1:11; 1 Thessalonians 4:16; Matthew 24:27, 42; Matthew 25:13; James 5:8; Hebrews 9:28; 1 Thessalonians 4:16-17; 1 Corinthians 15:42-44, 51-53; Philippians 3:20-21; Luke 1:32; Isaiah 9:6-7; 1 Corinthians 15:25; Isaiah 11:405; Isaiah 32:1; Psalm 72:8; Revelation 20:1-4, 6; Zechariah 14; Luke 1:32-33; Revelation 3:21; Revelation 19:11-16; Revelation 21:1-6; 2 Peter 3:8-10*
 
 ## 10.03 - Statement on Marriage and Sexuality
 
-We believe that the term “marriage” has only one meaning and that is marriage sanctioned by God, which joins one biological, natural-born man and one biological, natural-born woman in a single, exclusive union, as delineated in Scripture. Though various cultures and customs have evolving definitions on marriage, it is God alone who has ultimate authority to prescribe and describe the marital relationship. Genesis 2:24, Matthew 19:1-9, Mark 10: 1-2
+We believe that the term “marriage” has only one meaning and that is marriage sanctioned by God, which joins one biological, natural-born man and one biological, natural-born woman in a single, exclusive union, as delineated in Scripture. Though various cultures and customs have evolving definitions on marriage, it is God alone who has ultimate authority to prescribe and describe the marital relationship. 
+
+*Genesis 2:24, Matthew 19:1-9, Mark 10:1-2*
 
 We believe that God intends sexual intimacy to only occur between a man and a woman who are married to each other. We believe that God has commanded that no intimate sexual activity be engaged in outside of a marriage between a man and a woman.
 
-We believe that any form of sexual immorality, such as adultery, fornication, homosexuality, bisexual conduct, bestiality, incest, pornography or any attempt to change one’s sex, or disagreement with one’s biological, natural-born sex, is sinful and offensive to God. Also, the Church regards as sinful the intent or desire to surgically alter one’s biological, natural-born sex to a different sex. Since the body is a creation of God, the church holds sexual identity to be biologically determined by God at conception, and associated gender norms are to be observed as appropriate to biblical standards. Genesis 1:27; Romans 1:26-32; 1 Corinthians 6:9-11
+We believe that any form of sexual immorality, such as adultery, fornication, homosexuality, bisexual conduct, bestiality, incest, pornography or any attempt to change one’s sex, or disagreement with one’s biological, natural-born sex, is sinful and offensive to God. Also, the Church regards as sinful the intent or desire to surgically alter one’s biological, natural-born sex to a different sex. Since the body is a creation of God, the church holds sexual identity to be biologically determined by God at conception, and associated gender norms are to be observed as appropriate to biblical standards. 
+
+*Genesis 1:27; Romans 1:26-32; 1 Corinthians 6:9-11*
 
 So we believe, according to Scripture, that every person must be afforded compassion, love, kindness, respect, and dignity. Hateful and harassing behavior or attitudes directed toward any individual are to be repudiated and are not in accord with Scripture nor the doctrines of the church.
 
 We believe that in order to preserve the function and integrity of the Church as the local Body of Christ, and to provide a biblical role model to the church members and the community, it is imperative that all persons employed by the church in any capacity, or who serve as volunteers, should abide by and agree to the Statement on Marriage and Sexuality and conduct themselves accordingly.
 
-## Article XI
-## AFFILIATIONS
+## ARTICLE XI <br/> AFFILIATIONS
 
 ### 11.01 - Church Affiliations
 
 The government of this church is vested entirely in the body of believers who comprise it. It is subject to the control of no other ecclesiastical body, but it recognizes and sustains the obligations of mutual counsel and cooperation that are common among Baptist churches. Insofar as it is practical, this church will cooperate, support, and be affiliated with the Southern Baptist Convention. No individual, group, or organization shall be permitted to use either the name or property of this church without approval from the church or its official representative. The affiliations of the church will be public knowledge in a forum approved by the membership.
 
-## ARTICLE XII
-## CHURCH MEMBERSHIP
+## ARTICLE XII <br/> CHURCH MEMBERSHIP
 
 ### 12.01 - General
 
@@ -330,9 +338,7 @@ Membership shall be terminated in the following ways:
 
 (3) being willfully inactive for a period of one (1) year or more
 
-In all cases the Church shall follow the teachings of Matthew 18:15-17;
-
-1 Corinthians 5:1-5; and 2 Thessalonians 3:6-15.
+In all cases the Church shall follow the teachings of Matthew 18:15-17; 1 Corinthians 5:1-5; and 2 Thessalonians 3:6-15.
 
 ### 12.08 - Limitation of Revocation of Church Membership
 
@@ -346,8 +352,7 @@ Dismissed members may be restored to membership by the Church according to the s
 
 The church clerk shall keep and maintain a complete list of the members and such list shall be on file at the principal office of the church and shall be open to inspection by any member. This list shall constitute the sole and conclusive evidence of who the members are and thus, who may vote in business meetings.
 
-## ARTICLE XII
-## CHURCH LEADERSHIP
+## ARTICLE XII <br/> CHURCH LEADERSHIP
 
 ### 13.01 - Definition
 
@@ -355,7 +360,7 @@ This Church is to be recognized as a Pastor/Deacon-led, membership-ruled Church 
 
 ### 13.02 - Pastor
 
-The Pastor (hereinafter also called “Elder”), shall be the chief executive officer of the corporation. He shall preside at all business meetings, except as provided in Article 4, Section 5. He shall have general supervision, direction and active management of the corporation. He shall see that all orders and resolutions of the Church are carried into effect. He shall submit a report of the operations of the corporation for the fiscal year within one month of the end of each fiscal year and shall report from time to time all matters within his knowledge that the interest of the corporation may be required to be brought to its notice. He shall have all the general powers and duties of the supervision and management usually vested in the office of Pastor of an association.
+The Pastor (hereinafter also called “Elder”), shall be the chief executive officer of the corporation. He shall preside at all business meetings, except as provided in ARTICLE 4, Section 5. He shall have general supervision, direction and active management of the corporation. He shall see that all orders and resolutions of the Church are carried into effect. He shall submit a report of the operations of the corporation for the fiscal year within one month of the end of each fiscal year and shall report from time to time all matters within his knowledge that the interest of the corporation may be required to be brought to its notice. He shall have all the general powers and duties of the supervision and management usually vested in the office of Pastor of an association.
 
 #### 13.02.01 - Removal or Resignation
 
@@ -387,8 +392,7 @@ The pastor or any voting member may call for a vote of confidence at any Sunday 
 
 The Pulpit Committee is responsible for pulpit duties on Sunday and also would recommend to the Church an interim pastor if deemed necessary.
 
-## ARTICLE XIV 
-## OFFICERS
+## ARTICLE XIV <br/> OFFICERS
 
 ### 14.01 - Officers
 
@@ -414,8 +418,7 @@ The clerk shall keep the minutes of meetings of the corporation in books provide
 
 The treasurer and assistant treasurer shall have custody of all the funds and securities of the corporation. When necessary and proper, they shall endorse on behalf of the corporation all checks, notes or other obligations and evidences of payment of money payable to the corporation or coming into its possession and shall deposit the funds arising there from, together with all the other funds of the corporation, in such banks as may be selected as the depositories of the corporation or properly care for them in such other manner as the Church may direct. Whenever required by the Church to do so, they shall exhibit a complete and true statement of the cash account and of the other securities and property in his/her possession, custody or control. They shall enter regularly, in books belonging to the corporation and to be kept by them for such purposes a full and accurate account of all money received and paid by them on account of the corporation, together with all other business transactions. They shall submit a financial statement at each regular business meeting and an annual report within one month after the close of the fiscal year. They shall perform all other duties that are incidental to the officer of treasurer of a corporation.
 
-## ARTICLE XV
-## DEACONS
+## ARTICLE XV <br/> DEACONS
 
 ### 15.01 - Election
 
@@ -445,15 +448,13 @@ If a Deacon is removed from service, either voluntarily or involuntarily, the ap
 
 Any Deacon may be removed from office for valid cause. A written notice of proposed removal of any Deacon shall be given to a Church officer, at least ten (10) days prior to the meeting at which an action to affect such removal is to be taken to ensure that the Deacon is given a reasonable opportunity for defense. The Deacon shall have the opportunity to answer the charges in the presence of his or her accusers, but shall not be present during the discussion and vote on his or her removal. The removal of a Deacon requires a passing vote of the Church.
 
-## ARTICLE XVI
-## FISCAL YEAR
+## ARTICLE XVI <br/> FISCAL YEAR
 
 ### 16.01 - Fiscal Year
 
 The fiscal year of the corporation shall begin on September 1 and shall end of August 31 for each year.
 
-## ARTICLE XVII
-## ORDINATION AND LICENSING
+## ARTICLE XVII <br/> ORDINATION AND LICENSING
 
 ### 17.01 - Theology
 
@@ -513,8 +514,7 @@ If the Pastor believes the request deserves further merit, then he shall submit 
 
 Previously issued ministerial licensures may be revoked. The decision to grant or to revoke licensure remains under the sole authority of the Church.
 
-## ARTICLE XVIII
-## CONFLICT OF INTEREST
+## ARTICLE XVIII <br/> CONFLICT OF INTEREST
 
 ### 18.01 - No Appearance of Conflict
 
@@ -538,8 +538,7 @@ For purposes of this section, a Trustee, Officer or Committee Member shall be de
 
 When in doubt as to whether or not a Conflict of Interest exists or may exist, it shall be the duty of each person to inform the Church Clerk or the Church for clarification.
 
-## ARTICLE XIX
-## DISPUTE RESOLUTION
+## ARTICLE XIX <br/> DISPUTE RESOLUTION
 
 ### 19.01 - Christian Alternative Dispute Resolution
 
@@ -553,15 +552,13 @@ f efforts to conciliate or mediate the dispute fail, then the matter shall be re
 
 If a dispute may result in an award of monetary damages, then use of the conciliation, mediation, and arbitration procedure is conditioned on acceptance of the procedure by the liability insurer of the Church and insurer’s agreement to honor any mediation, conciliation or arbitration award up to any applicable policy limits. The mediation, conciliation and arbitration process is not a substitute for any disciplinary process set forth in the By-Laws of the Church and shall in no way affect the authority of the Church to investigate reports of misconduct, conduct hearings, or administer discipline of members.
 
-## ARTICLE XX
-## EMPLOYEE AND VOLUNTEERS
+## ARTICLE XX <br/> EMPLOYEE AND VOLUNTEERS
 
 ### 20.01 - Requirements
 
 All employees are required to be Members of the Church and subscribe to the Church’s Statement of Faith as outlined in the By-Laws. All Church workers and volunteers are subject to background checks, and are required to subscribe to the Church’s Statement of Faith and its By-Laws. They must sign a statement annually to abide by these as long as they volunteer. Should the time come when they can no longer abide by these statements, they agree to no longer serve in any capacity at the Church.
 
-## ARTICLE XXI
-## INDEMINIFICATION
+## ARTICLE XXI <br/> INDEMINIFICATION
 
 ### 21.01 - Indeminification
 
@@ -569,21 +566,19 @@ To the full extent permitted by the Act, as amended from time to time, the Churc
 
 ### 21.02 - Limitations
 
-No indemnification or advance shall be made under this Article in any circumstances when it appears:
+No indemnification or advance shall be made under this ARTICLE in any circumstances when it appears:
 
-(a) That the indemnification or advance would be inconsistent with a provision of the Articles of Incorporation, the By-Laws, resolution of the members, or an agreement in effect at the time of accrual of the alleged cause of action asserted in the proceedings in which the expenses were incurred or other amounts were paid, which prohibits of otherwise indemnification; or
+(a) That the indemnification or advance would be inconsistent with a provision of the ARTICLEs of Incorporation, the By-Laws, resolution of the members, or an agreement in effect at the time of accrual of the alleged cause of action asserted in the proceedings in which the expenses were incurred or other amounts were paid, which prohibits of otherwise indemnification; or
 
 (b) That the indemnification would be inconsistent with any condition expressly imposed by a court in approving settlement.
 
-## ARTICLE XXII
-## AMENDMENTS TO BY-LAWS
+## ARTICLE XXII <br/> AMENDMENTS TO BY-LAWS
 
 ### 22.01 - Amendments
 
 These By-Laws may only be altered, amended or repealed, and new By-Laws may only be adopted by three-fourths (3/4) majority of the active voting members present and voting in any regular business meeting. Proposed changes shall be presented at one business meeting and voted upon at the next regular business meeting.
 
-## ARTICLE XXIII
-## SEVERABILITY
+## ARTICLE XXIII <br/> SEVERABILITY
 
 ### 23.01 - Severability
 
