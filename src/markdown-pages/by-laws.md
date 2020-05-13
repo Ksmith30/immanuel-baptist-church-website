@@ -8,6 +8,10 @@ The by-laws (‘BY-LAWS’) are made and entered into as of month day 2017 under
 
 We, the undersigned, in order to form a corporation for the purposes herein/after stated under and pursuant to the provisions of Arkansas Law and with unbounded faith in God for leadership, protection, and blessing, with unquestioned acceptance of the Holy Bible as our all-sufficient rule of faith and practice, desiring to continue the place and form of worship that we have maintained since organizing in 1952, and desiring now to be legally constituted a church under the laws of the State of Arkansas, we do hereby certify as follows:
 
+```toc
+# This code block gets replaced with the TOC
+```
+
 ## ARTICLE I <br/> NAME AND LOCATION
 
 ### 1.01 - Name
@@ -254,7 +258,7 @@ We believe in the second coming of Christ, that His return from Heaven will be p
 
 *Matthew 28:6-7; Luke 24:39; John 20:27; 1 Corinthians 15:4; Mark 16:6; Luke 24:2, 4-6; Acts 1:9; Luke 24:51; Mark 16:19; Revelation 3:21; Hebrews 8:1, 6; 1 John 2:1; Hebrews 2:17; Hebrews 5:9-10; John 14:3; Acts 1:11; 1 Thessalonians 4:16; Matthew 24:27, 42; Matthew 25:13; James 5:8; Hebrews 9:28; 1 Thessalonians 4:16-17; 1 Corinthians 15:42-44, 51-53; Philippians 3:20-21; Luke 1:32; Isaiah 9:6-7; 1 Corinthians 15:25; Isaiah 11:405; Isaiah 32:1; Psalm 72:8; Revelation 20:1-4, 6; Zechariah 14; Luke 1:32-33; Revelation 3:21; Revelation 19:11-16; Revelation 21:1-6; 2 Peter 3:8-10*
 
-## 10.03 - Statement on Marriage and Sexuality
+### 10.03 - Statement on Marriage and Sexuality
 
 We believe that the term “marriage” has only one meaning and that is marriage sanctioned by God, which joins one biological, natural-born man and one biological, natural-born woman in a single, exclusive union, as delineated in Scripture. Though various cultures and customs have evolving definitions on marriage, it is God alone who has ultimate authority to prescribe and describe the marital relationship. 
 

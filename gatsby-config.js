@@ -23,7 +23,16 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-autolink-headers`],
+        plugins: [`gatsby-remark-autolink-headers`,    
+        {
+          resolve: `gatsby-remark-table-of-contents`,
+          options: {
+            exclude: "Table of Contents",
+            tight: false,
+            fromHeading: 1,
+            toHeading: 2
+          },
+        }],
       },
     },
     `gatsby-plugin-catch-links`,
